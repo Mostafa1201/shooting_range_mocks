@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deals>
+
+  <deal>
+    <basic_information>
+      <title>Glock 19 Gen 5 9mm Compact Pistol</title>
+      <price>499.99</price>
+      <sale_price>459.99</sale_price>
+      <quantity>30</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Glock</brand>
+      <mpn>PA195S203</mpn>
+      <upc>764503037153</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Glock G19 Gen 5</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Threaded</muzzle>
+      <trigger_type>Safe Action</trigger_type>
+      <feature>Night Sights</feature>
+      <capacity>15+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>15</magazine_capacity>
+      <barrel_length>4.02 in</barrel_length>
+      <overall_length>7.28 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Black</finish>
+      <stock>Polymer</stock>
+      <sight>Fixed</sight>
+      <safety>Trigger Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>23.63 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor1.com/glock-19-gen5</product_link>
+    <vendor_id>VENDOR001</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Glock 17 Gen 5 9mm Full Size Pistol</title>
+      <price>549.99</price>
+      <sale_price>509.99</sale_price>
+      <quantity>25</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Glock</brand>
+      <mpn>PA175S203</mpn>
+      <upc>764503030994</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Glock G17 Gen 5</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Safe Action</trigger_type>
+      <feature>Ambidextrous Slide Stop</feature>
+      <capacity>17+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>17</magazine_capacity>
+      <barrel_length>4.49 in</barrel_length>
+      <overall_length>8.03 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Black</finish>
+      <stock>Polymer</stock>
+      <sight>Fixed</sight>
+      <safety>Trigger Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>25.17 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor1.com/glock-17-gen5</product_link>
+    <vendor_id>VENDOR001</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Sig Sauer P320 Full Size 9mm Pistol</title>
+      <price>599.99</price>
+      <sale_price>549.99</sale_price>
+      <quantity>20</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Sig Sauer</brand>
+      <mpn>320F-9-BSS</mpn>
+      <upc>798681477081</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Sig Sauer P320 Full Size</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>SIGLITE Night Sights</feature>
+      <capacity>17+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>17</magazine_capacity>
+      <barrel_length>4.7 in</barrel_length>
+      <overall_length>8 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Nitron Black</finish>
+      <stock>Polymer</stock>
+      <sight>SIGLITE Night Sights</sight>
+      <safety>No External Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>29.4 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor2.com/sig-p320-fullsize</product_link>
+    <vendor_id>VENDOR002</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Sig Sauer P365 9mm Micro-Compact Pistol</title>
+      <price>499.99</price>
+      <sale_price>469.99</sale_price>
+      <quantity>35</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Sig Sauer</brand>
+      <mpn>365-9-BXR3</mpn>
+      <upc>798681621859</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Sig Sauer P365</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>XRAY3 Day/Night Sights</feature>
+      <capacity>10+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>10</magazine_capacity>
+      <barrel_length>3.1 in</barrel_length>
+      <overall_length>5.8 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Nitron Black</finish>
+      <stock>Polymer</stock>
+      <sight>XRAY3 Day/Night</sight>
+      <safety>No External Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>17.8 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor2.com/sig-p365</product_link>
+    <vendor_id>VENDOR002</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Smith &amp; Wesson M&amp;P Shield Plus 9mm Pistol</title>
+      <price>449.99</price>
+      <sale_price>399.99</sale_price>
+      <quantity>50</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Smith &amp; Wesson</brand>
+      <mpn>13248</mpn>
+      <upc>022188882957</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>S&amp;W M&amp;P Shield Plus</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Flat Face Trigger</feature>
+      <capacity>13+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>13</magazine_capacity>
+      <barrel_length>3.1 in</barrel_length>
+      <overall_length>6.1 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Armornite Black</finish>
+      <stock>Polymer</stock>
+      <sight>White Dot</sight>
+      <safety>Thumb Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>20 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor3.com/sw-shield-plus</product_link>
+    <vendor_id>VENDOR003</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Smith &amp; Wesson M&amp;P 2.0 Compact 9mm Pistol</title>
+      <price>499.99</price>
+      <sale_price>459.99</sale_price>
+      <quantity>22</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Smith &amp; Wesson</brand>
+      <mpn>11683</mpn>
+      <upc>022188869590</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>S&amp;W M&amp;P 2.0 Compact</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Aggressive Grip Texture</feature>
+      <capacity>15+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>15</magazine_capacity>
+      <barrel_length>4 in</barrel_length>
+      <overall_length>7.3 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Armornite Black</finish>
+      <stock>Polymer</stock>
+      <sight>White Dot</sight>
+      <safety>Thumb Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>24 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor3.com/sw-mp20-compact</product_link>
+    <vendor_id>VENDOR003</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Colt 1911 Government .45 ACP Full Size Pistol</title>
+      <price>899.99</price>
+      <sale_price>849.99</sale_price>
+      <quantity>12</quantity>
+      <category>Handguns</category>
+      <caliber>.45 ACP</caliber>
+      <brand>Colt</brand>
+      <mpn>O1911C</mpn>
+      <upc>098289110459</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Colt 1911 Government</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Single-Action</trigger_type>
+      <feature>Series 70 Firing System</feature>
+      <capacity>7+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>7</magazine_capacity>
+      <barrel_length>5 in</barrel_length>
+      <overall_length>8.5 in</overall_length>
+      <action>Single-Action</action>
+      <finish>Blued</finish>
+      <stock>Rosewood Grips</stock>
+      <sight>Fixed</sight>
+      <safety>Thumb Safety / Grip Safety</safety>
+      <optic_ready>No</optic_ready>
+      <weight>38 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor1.com/colt-1911-government</product_link>
+    <vendor_id>VENDOR001</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Ruger LCP MAX .380 ACP Pocket Pistol</title>
+      <price>349.99</price>
+      <sale_price>319.99</sale_price>
+      <quantity>45</quantity>
+      <category>Handguns</category>
+      <caliber>.380 ACP</caliber>
+      <brand>Ruger</brand>
+      <mpn>13727</mpn>
+      <upc>736676137275</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Ruger LCP MAX</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Pocket-Sized Carry</feature>
+      <capacity>10+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>10</magazine_capacity>
+      <barrel_length>2.8 in</barrel_length>
+      <overall_length>5.17 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Black</finish>
+      <stock>Polymer</stock>
+      <sight>Integrated Sights</sight>
+      <safety>No External Safety</safety>
+      <optic_ready>No</optic_ready>
+      <weight>10.6 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor2.com/ruger-lcp-max</product_link>
+    <vendor_id>VENDOR002</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Springfield Armory Hellcat 9mm Micro-Compact Pistol</title>
+      <price>499.99</price>
+      <sale_price>469.99</sale_price>
+      <quantity>28</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Springfield Armory</brand>
+      <mpn>HC9319B</mpn>
+      <upc>706397926793</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Springfield Hellcat</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Adaptive Grip Texture</feature>
+      <capacity>11+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>11</magazine_capacity>
+      <barrel_length>3 in</barrel_length>
+      <overall_length>6 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Melonite Black</finish>
+      <stock>Polymer</stock>
+      <sight>Tritium/Luminescent Front</sight>
+      <safety>No External Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>18.3 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor3.com/springfield-hellcat</product_link>
+    <vendor_id>VENDOR003</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Walther PDP Full Size 9mm Pistol</title>
+      <price>649.99</price>
+      <sale_price>599.99</sale_price>
+      <quantity>18</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Walther</brand>
+      <mpn>2842431</mpn>
+      <upc>723364212970</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Walther PDP Full Size</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Performance Duty Trigger</feature>
+      <capacity>18+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>18</magazine_capacity>
+      <barrel_length>4 in</barrel_length>
+      <overall_length>7.4 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Black Tenifer</finish>
+      <stock>Polymer</stock>
+      <sight>3-Dot</sight>
+      <safety>No External Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>25.4 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor1.com/walther-pdp-fullsize</product_link>
+    <vendor_id>VENDOR001</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>CZ 75 SP-01 9mm Full Size Pistol</title>
+      <price>699.99</price>
+      <sale_price>649.99</sale_price>
+      <quantity>14</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>CZ</brand>
+      <mpn>91152</mpn>
+      <upc>806703911522</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>CZ 75 SP-01</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>DA/SA</trigger_type>
+      <feature>Integrated Picatinny Rail</feature>
+      <capacity>18+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>18</magazine_capacity>
+      <barrel_length>4.6 in</barrel_length>
+      <overall_length>8.15 in</overall_length>
+      <action>Double/Single Action</action>
+      <finish>Black Polycoat</finish>
+      <stock>Rubber Grips</stock>
+      <sight>Tritium Night Sights</sight>
+      <safety>Thumb Safety / Decocking</safety>
+      <optic_ready>No</optic_ready>
+      <weight>38.4 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor2.com/cz75-sp01</product_link>
+    <vendor_id>VENDOR002</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Beretta 92FS 9mm Full Size Pistol</title>
+      <price>649.99</price>
+      <sale_price>599.99</sale_price>
+      <quantity>16</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Beretta</brand>
+      <mpn>JS92F300M</mpn>
+      <upc>082442133011</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Beretta 92FS</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>DA/SA</trigger_type>
+      <feature>Open Slide Design</feature>
+      <capacity>15+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>15</magazine_capacity>
+      <barrel_length>4.9 in</barrel_length>
+      <overall_length>8.5 in</overall_length>
+      <action>Double/Single Action</action>
+      <finish>Bruniton Black</finish>
+      <stock>Plastic Grips</stock>
+      <sight>3-Dot</sight>
+      <safety>Ambidextrous Safety/Decocker</safety>
+      <optic_ready>No</optic_ready>
+      <weight>33.3 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor3.com/beretta-92fs</product_link>
+    <vendor_id>VENDOR003</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>HK VP9 9mm Full Size Pistol</title>
+      <price>749.99</price>
+      <sale_price>699.99</sale_price>
+      <quantity>10</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Heckler &amp; Koch</brand>
+      <mpn>700009-A5</mpn>
+      <upc>642230261366</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>HK VP9</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Charging Supports</feature>
+      <capacity>17+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>17</magazine_capacity>
+      <barrel_length>4.09 in</barrel_length>
+      <overall_length>7.34 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Black</finish>
+      <stock>Polymer</stock>
+      <sight>3-Dot Luminescent</sight>
+      <safety>No External Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>26.56 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor1.com/hk-vp9</product_link>
+    <vendor_id>VENDOR001</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Taurus G3C 9mm Compact Pistol</title>
+      <price>299.99</price>
+      <sale_price>269.99</sale_price>
+      <quantity>60</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Taurus</brand>
+      <mpn>1-G3C931-10</mpn>
+      <upc>725327932659</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Taurus G3C</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Manual Safety</feature>
+      <capacity>12+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>12</magazine_capacity>
+      <barrel_length>3.26 in</barrel_length>
+      <overall_length>6.3 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Black</finish>
+      <stock>Polymer</stock>
+      <sight>Adjustable Rear</sight>
+      <safety>Manual Thumb Safety</safety>
+      <optic_ready>No</optic_ready>
+      <weight>22 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor2.com/taurus-g3c</product_link>
+    <vendor_id>VENDOR002</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Kimber Micro 9 9mm Subcompact Pistol</title>
+      <price>679.99</price>
+      <sale_price>639.99</sale_price>
+      <quantity>20</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Kimber</brand>
+      <mpn>3300157</mpn>
+      <upc>669278331573</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Kimber Micro 9</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Single-Action</trigger_type>
+      <feature>1911-Style Design</feature>
+      <capacity>7+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>7</magazine_capacity>
+      <barrel_length>3.15 in</barrel_length>
+      <overall_length>6.1 in</overall_length>
+      <action>Single-Action</action>
+      <finish>Stainless</finish>
+      <stock>Rosewood Grips</stock>
+      <sight>Tactical Wedge 3-Dot</sight>
+      <safety>Thumb Safety / Grip Safety</safety>
+      <optic_ready>No</optic_ready>
+      <weight>15.6 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor3.com/kimber-micro9</product_link>
+    <vendor_id>VENDOR003</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>FN 509 Midsize 9mm Pistol</title>
+      <price>599.99</price>
+      <sale_price>559.99</sale_price>
+      <quantity>22</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>FN America</brand>
+      <mpn>66-100282</mpn>
+      <upc>845737012175</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>FN 509 Midsize</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Low-Profile Slide Serrations</feature>
+      <capacity>15+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>15</magazine_capacity>
+      <barrel_length>4 in</barrel_length>
+      <overall_length>7.4 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Black</finish>
+      <stock>Polymer</stock>
+      <sight>3-Dot</sight>
+      <safety>No External Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>26.3 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor1.com/fn509-midsize</product_link>
+    <vendor_id>VENDOR001</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Glock 43X 9mm Slimline Pistol</title>
+      <price>479.99</price>
+      <sale_price>449.99</sale_price>
+      <quantity>38</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Glock</brand>
+      <mpn>PX4350201</mpn>
+      <upc>764503032547</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Glock G43X</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Safe Action</trigger_type>
+      <feature>Silver Slide</feature>
+      <capacity>10+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>10</magazine_capacity>
+      <barrel_length>3.41 in</barrel_length>
+      <overall_length>6.5 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Silver/Black</finish>
+      <stock>Polymer</stock>
+      <sight>Fixed</sight>
+      <safety>Trigger Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>18.7 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor2.com/glock-43x</product_link>
+    <vendor_id>VENDOR002</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Canik TP9SFx 9mm Full Size Pistol</title>
+      <price>449.99</price>
+      <sale_price>409.99</sale_price>
+      <quantity>30</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Canik</brand>
+      <mpn>HG3774-N</mpn>
+      <upc>787450587229</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Canik TP9SFx</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Threaded</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Warren Tactical Sights</feature>
+      <capacity>20+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>20</magazine_capacity>
+      <barrel_length>5.2 in</barrel_length>
+      <overall_length>8.27 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Black</finish>
+      <stock>Polymer</stock>
+      <sight>Warren Tactical</sight>
+      <safety>No External Safety</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>29.3 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor3.com/canik-tp9sfx</product_link>
+    <vendor_id>VENDOR003</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Ruger Security-9 9mm Full Size Pistol</title>
+      <price>329.99</price>
+      <sale_price>299.99</sale_price>
+      <quantity>42</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Ruger</brand>
+      <mpn>03810</mpn>
+      <upc>736676038107</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Ruger Security-9</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Secure Action Fire Control</feature>
+      <capacity>15+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>15</magazine_capacity>
+      <barrel_length>4 in</barrel_length>
+      <overall_length>7.24 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Black Oxide</finish>
+      <stock>Polymer</stock>
+      <sight>3-Dot</sight>
+      <safety>Manual Safety</safety>
+      <optic_ready>No</optic_ready>
+      <weight>23.8 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor1.com/ruger-security9</product_link>
+    <vendor_id>VENDOR001</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+  <deal>
+    <basic_information>
+      <title>Mossberg MC2c 9mm Compact Pistol</title>
+      <price>399.99</price>
+      <sale_price>369.99</sale_price>
+      <quantity>18</quantity>
+      <category>Handguns</category>
+      <caliber>9mm</caliber>
+      <brand>Mossberg</brand>
+      <mpn>89011</mpn>
+      <upc>015813890112</upc>
+    </basic_information>
+    <firearms_information>
+      <brand_and_main_model>Mossberg MC2c</brand_and_main_model>
+      <type>Semi-Automatic</type>
+      <muzzle>Standard</muzzle>
+      <trigger_type>Striker-Fired</trigger_type>
+      <feature>Ambidextrous Controls</feature>
+      <capacity>13+1</capacity>
+      <magazine_included>Yes</magazine_included>
+      <magazine_capacity>13</magazine_capacity>
+      <barrel_length>3.9 in</barrel_length>
+      <overall_length>7.1 in</overall_length>
+      <action>Striker-Fired</action>
+      <finish>Black</finish>
+      <stock>Polymer</stock>
+      <sight>3-Dot</sight>
+      <safety>Cross-Bolt</safety>
+      <optic_ready>Yes</optic_ready>
+      <weight>21.3 oz</weight>
+    </firearms_information>
+    <deal_status>
+      <enable_expiry>No</enable_expiry>
+      <show_hide_deal>Show</show_hide_deal>
+      <out_of_stock>No</out_of_stock>
+    </deal_status>
+    <product_link>https://vendor2.com/mossberg-mc2c</product_link>
+    <vendor_id>VENDOR002</vendor_id>
+    <last_updated>2026-02-26T10:00:00</last_updated>
+  </deal>
+
+</deals>
